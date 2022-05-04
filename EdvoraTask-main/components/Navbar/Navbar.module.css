@@ -1,0 +1,33 @@
+.navbar{
+    /* padding: 0 2.3rem; */
+    background-color: black;
+}
+
+.logo {
+    max-width: 114px;
+    margin-top: 0.8rem;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 100%;
+    overflow: hidden;
+    margin-left: 1.563rem;
+}
+.uname {
+   
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: aliceblue;
+}
+.avatar img {
+    width: 100%;
+}
